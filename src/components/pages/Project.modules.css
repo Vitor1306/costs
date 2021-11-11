@@ -1,0 +1,10 @@
+.project_container {
+  width: 400px;
+  padding: 3em;
+  margin: auto;
+}
+
+.project_container h1 {
+  margin-bottom: 0.5em;
+}
+

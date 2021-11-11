@@ -1,0 +1,21 @@
+.footer {
+  padding: 3em;
+  background-color: #222;
+  color: #fff;
+  text-align: center;
+}
+
+.list {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+}
+
+.list li {
+  margin: 0 1em;
+}
+
+.list li:hover {
+  color: #ffbb33;
+}
+
