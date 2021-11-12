@@ -1,5 +1,5 @@
-import styles from './Home.modules.css'
-import savings from '../../img/savings.svg'
+import styles from './styles.css';
+import savings from '../../../img/savings.svg';
 
 function Home() {
   return (

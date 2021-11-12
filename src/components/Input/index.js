@@ -1,3 +1,7 @@
+import React from "react";
+
+import styles from './styles.css'
+
 function Input({ type, text, name, placeholder, value }) {
   return (
     <div className="form_control">
